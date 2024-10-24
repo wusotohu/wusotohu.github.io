@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://wusotohu.github.io/sitemap/sitemap_index.wusotohu
+Sitemap: https://wusotohu.github.io/tMV/sitemap_index.wusotohu
+Sitemap: https://wusotohu.github.io/VgN/sitemap_index.wusotohu
+Sitemap: https://wusotohu.github.io/ODH/sitemap_index.wusotohu
+Sitemap: https://wusotohu.github.io/DLg/sitemap_index.wusotohu
+Sitemap: https://wusotohu.github.io/FaX/sitemap_index.wusotohu
+Sitemap: https://wusotohu.github.io/YyO/sitemap_index.wusotohu
+Sitemap: https://wusotohu.github.io/RGT/sitemap_index.wusotohu
+Sitemap: https://wusotohu.github.io/iNl/sitemap_index.wusotohu
+Sitemap: https://wusotohu.github.io/pLN/sitemap_index.wusotohu
+Sitemap: https://wusotohu.github.io/MbH/sitemap_index.wusotohu
+Sitemap: https://wusotohu.github.io/iOI/sitemap_index.wusotohu
+Sitemap: https://wusotohu.github.io/iFI/sitemap_index.wusotohu
+Sitemap: https://wusotohu.github.io/FMi/sitemap_index.wusotohu
+Sitemap: https://wusotohu.github.io/NXJ/sitemap_index.wusotohu
+Sitemap: https://wusotohu.github.io/iQD/sitemap_index.wusotohu
+Sitemap: https://wusotohu.github.io/otn/sitemap_index.wusotohu
+Sitemap: https://wusotohu.github.io/lhw/sitemap_index.wusotohu
+Sitemap: https://wusotohu.github.io/Mqi/sitemap_index.wusotohu
+Sitemap: https://wusotohu.github.io/JbF/sitemap_index.wusotohu
+Sitemap: https://wusotohu.github.io/hMg/sitemap_index.wusotohu
